@@ -20,7 +20,7 @@ Welcome to my portfolio website! This website serves as a showcase of my skills,
 
 To run this website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jithu-francis/jithu-francis.github.io`
+1. Clone the repository: `git clone https://github.com/s1999-alt/Portfolio-website.git`
 2. Open the index.html file in a web browser.
 
 ## Contributions
