@@ -14,7 +14,7 @@ Welcome to my portfolio website! This website serves as a showcase of my skills,
 
 - Languages: HTML, CSS, JavaScript,Bootstrap,Php,Ajax
 - Frameworks: Bootstrap
-- Tools and Libraries: google form
+- Tools and Libraries: google form,ajax
 
 ## Getting Started
 
