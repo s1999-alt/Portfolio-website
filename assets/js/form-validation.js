@@ -46,13 +46,13 @@
 //       return false
 //     }
   
-//     // if (mobilenumber.length > 10) {
-//     //   msg1.innerHTML = "Mobile Number must have only 10 digits"
-//     //   setTimeout(function () {
-//     //     msg1.innerHTML = ""
-//     //   }, 5000)
-//     //   return false
-//     // }
+//     if (mobilenumber.length > 10) {
+//       msg1.innerHTML = "Mobile Number must have only 10 digits"
+//       setTimeout(function () {
+//         msg1.innerHTML = ""
+//       }, 5000)
+//       return false
+//     }
   
 //     var emailRegex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 //     if (!emailRegex.test(email)) {

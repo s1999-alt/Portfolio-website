@@ -149,8 +149,10 @@ h6 {
 * Desktop Navigation 
 */
 .nav-menu {
+  display: inline;
   padding: 0;
   display: block;
+  
 }
 
 .nav-menu * {
