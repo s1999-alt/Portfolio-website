@@ -1,4 +1,4 @@
-Welcome to my portfolio website! This website serves as a showcase of my skills, projects, and achievements in the fields of machine learning and web development. It is designed to provide visitors with an overview of my expertise and serve as a hub for exploring my work.
+Welcome to my portfolio website! This website serves as a showcase of my skills, projects, and achievements in the fields of Python Full stack and web development. It is designed to provide visitors with an overview of my expertise and serve as a hub for exploring my work.
 
 ## Features
 
